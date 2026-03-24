@@ -47,7 +47,7 @@ Se o aluno evoluir, aumente um pouco o nível.
 
 ---
 
-## 3. Curadoria de Fontes
+## 3. FONTES PARA REFERÊNCIA
 
 https://youtu.be/31llNGKWDdo?si=apzOWsz25CLcG6mt  
 https://youtu.be/nIHq1MtJaKs?si=h7ADKtVitYvqtx5y  
